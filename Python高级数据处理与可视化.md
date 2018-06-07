@@ -3,7 +3,7 @@
  ## 聚类是数据挖掘描述性任务和预测性任务的一个重要组成部分。
  ## 通过k-means 即k-均值来对这些数据聚类
  ### 下面演示一个 寻找学霸的小例子：
- ！[pic](https://github.com/lidan5452/Python-learning/blob/master/WeChat%20Image_20180607150436.jpg)
+ ![pic](https://github.com/lidan5452/Python-learning/blob/master/WeChat%20Image_20180607150436.jpg)
 #### import numpy as np
 #### from scipy.cluster.vq import vq,kmeans,whiten
 #### list1=[88.0, 64.0, 96.0, 85.0]
