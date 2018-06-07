@@ -1,5 +1,5 @@
- ##### 聚类是数据挖掘描述性任务和预测性任务的一个重要组成部分。
- #### 通过k-means 即k-均值来对这些数据聚类
+ \##### 聚类是数据挖掘描述性任务和预测性任务的一个重要组成部分。
+ \#### 通过k-means 即k-均值来对这些数据聚类
  ### 下面演示一个 寻找学霸的小例子：
 import numpy as np
 from scipy.cluster.vq import vq,kmeans,whiten
